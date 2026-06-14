@@ -1,0 +1,6 @@
+{
+  "name": "Mathura Vrindavan Pilgrimage Services",
+  "description": "Premium-grade end-to-end spiritual pilgrimage services in Mathura and Vrindavan. Includes luxury hotels, VIP Darshan assistance, verified guides, transport, and custom packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
